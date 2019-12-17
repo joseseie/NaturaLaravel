@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Dec 2019 18:19:37 at https://naturamoz.org.mz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://naturamoz.org.mz/ -O1 "E:\explicador\NaturaWebSite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:21:50	Warning: 	Retry after error -4 (Connect Error) at link 127.0.0.1:35729/livereload.js (from https://naturamoz.org.mz/)
+18:22:49	Warning: 	Found for https://naturamoz.org.mz/admin/
+18:22:49	Warning: 	File has moved from https://naturamoz.org.mz/admin/ to /admin/login/?next=/admin/
+18:22:57	Error: 	"Not Found" (404) at link https://naturamoz.org.mz/static/home2/css/owl.video.play.png (from https://naturamoz.org.mz/static/home2/css/owl.carousel.css)
+18:22:58	Warning: 	Retry after error -4 (Connect Error) at link 127.0.0.1:35729/livereload.js (from https://naturamoz.org.mz/)
+18:23:21	Error: 	"Connect Error" (-4) after 2 retries at link 127.0.0.1:35729/livereload.js (from https://naturamoz.org.mz/)
+18:23:22	Error: 	"Not Found" (404) at link https://naturamoz.org.mz/static/gallery2/images/loading.gif (from https://naturamoz.org.mz/static/gallery2/css/chocolat.css)
+18:23:22	Error: 	"Not Found" (404) at link https://naturamoz.org.mz/static/blog2/images/search.png (from https://naturamoz.org.mz/static/blog2/blog/style.css)
+18:23:22	Error: 	"Not Found" (404) at link https://naturamoz.org.mz/static/blog2/images/more.png (from https://naturamoz.org.mz/static/blog2/blog/style.css)
+18:23:22	Error: 	"Not Found" (404) at link https://naturamoz.org.mz/static/blog2/images/icon3.png (from https://naturamoz.org.mz/static/blog2/blog/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 45 seconds : 170 links scanned, 160 files written (23697729 bytes overall) [21309843 bytes received at 94710 bytes/sec], 3239451 bytes transferred using HTTP compression in 76 files, ratio 24%, 6.2 requests per connection
+(6 errors, 4 warnings, 0 messages)

@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	has_recent_activity	1
+.github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	d2libkowRzdUTVgxQmtTRmkySEJzNjRTK1EyenNzTndZT1N5UXdHVHVZVng0YWY4UHVYengzcElWVllZQ2crejhTMnhCT2t5S1RaK2IyOVc3Qlo3dTBBTHorK3h0Z1k0cE45UmtaWWRiK3BTMTVqRzB2OFBSMmtuZ3dnYit4Yi82ZDBtNVpJc2JHaXhiT0g4NHBxL2k1eUhwUzRsRnVHMUl3Q3BOS1RVL1VNNEpzNEJnc1dEV1N0T0FVUjUyQnFMNzRYTXVmSlA0TjRub1NwbEdHZnhHUT09LS1ZV2JEVmd3K2cvSHRxR2JzY2NDWmlnPT0%3D--66201084073bb89b8a8a7b0657c3769a1f3ae9a8
+naturamoz.org.mz	TRUE	/	FALSE	1999999999	csrftoken	W1lJ8nlD5PPxWlToPzijLnUWJudxh6p1IfsvzMwdvWO8eOA1Hzt9jyNAY9mDTMDG
+naturamoz.org.mz	TRUE	/	FALSE	1999999999	SameSite	Lax
+

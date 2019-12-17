@@ -1,0 +1,13 @@
+.link {
+    color: #001ba1 !important;
+}
+
+.link:hover{
+    color: #002aff !important;
+}
+
+@media (max-width: 699px) {
+    .content-right {
+        display: none;
+    }
+}
